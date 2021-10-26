@@ -64,11 +64,11 @@ local themeStyles = {
         ElementColor = Color3.fromRGB(79, 79, 80)
     },
     LightTheme = {
-        SchemeColor = Color3.fromRGB(150, 150, 150),
-        Background = Color3.fromRGB(255,255,255),
-        Header = Color3.fromRGB(200, 200, 200),
-        TextColor = Color3.fromRGB(0,0,0),
-        ElementColor = Color3.fromRGB(224, 224, 224)
+        SchemeColor = Color3.fromRGB(25, 25, 25),
+        Background = Color3.fromRGB(158, 78, 255),
+        Header = Color3.fromRGB(32,32,32),
+        TextColor = Color3.fromRGB(158, 78, 255),
+        ElementColor = Color3.fromRGB(32,32,32)
     },
     BloodTheme = {
         SchemeColor = Color3.fromRGB(227, 27, 27),
